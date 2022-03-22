@@ -1,5 +1,0 @@
-This is the content of file 1
-
-====
-the following is additional text into file.1.txt
-===
